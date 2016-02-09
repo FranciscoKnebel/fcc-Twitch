@@ -1,0 +1,58 @@
+body {
+  background-color: #FFFFCC;
+}
+
+footer {
+  color: white;
+	padding-top: 10px;
+	min-height: 10%;
+	text-align: center;
+	font-family: Port Lligat Slab, serif;
+	background-color: #2D0069;
+}
+
+.link a:link, .link a:visited {
+  color: white;
+	text-shadow: 2px 2px 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+h1 {
+  font-family: Kreon;
+  font-size: 4em;
+}
+
+h2, h3, h4 {
+	font-family: Port Lligat Slab, sans-serif;
+}
+
+.bottomHR {
+  border: 2px solid #ccc;
+}
+
+li {
+  list-style: none;
+}
+
+ul, ol {
+  padding-left: 0;
+}
+
+.img-thumbnail {
+  max-width: 100px;
+}
+
+.OnlyStreams {
+  background-color: #AF8B08;
+}
+
+.Streaming {
+  color: white;
+  background-color: #33CC33;
+}
+
+.notStreaming {
+  color: white;
+  background-color: #660000;
+}
